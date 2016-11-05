@@ -1,0 +1,16 @@
+{
+	"private":      true,
+	"name":         "tip-integrations",
+	"description":  "Customizations for shops using Tip Me.",
+	"version":      "0.1.0",
+	"main":         "index.js",
+	"files":        ["ethletic.js"],
+	"author":       "Jannis R <mail@jannisr.de>",
+	"homepage":     "https://github.com/trinkgeld/tip-integrations",
+	"repository":   "trinkgeld/tip-integrations",
+	"bugs":         "https://github.com/trinkgeld/tip-integrations/issues",
+	"license":      "GPL-3.0",
+	"engines":      {"node": ">=6"},
+	"dependencies": {
+	}
+}
