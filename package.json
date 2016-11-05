@@ -4,7 +4,7 @@
 	"description":  "Customizations for shops using Tip Me.",
 	"version":      "0.1.0",
 	"main":         "index.js",
-	"files":        ["ethletic.js"],
+	"files":        ["ethletic.js", "checkout-demo.js"],
 	"author":       "Jannis R <mail@jannisr.de>",
 	"homepage":     "https://github.com/trinkgeld/tip-integrations",
 	"repository":   "trinkgeld/tip-integrations",
